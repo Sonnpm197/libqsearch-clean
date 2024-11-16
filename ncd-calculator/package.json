@@ -32,6 +32,7 @@
     "react-dropzone": "^14.3.5",
     "react-force-graph": "^1.44.6",
     "react-force-graph-2d": "^1.25.7",
+    "react-tag-input": "^6.10.3",
     "react-treebeard": "^3.2.4",
     "text-encoding-utf-8": "^1.0.2",
     "three": "^0.169.0",

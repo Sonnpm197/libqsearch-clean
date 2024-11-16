@@ -552,7 +552,6 @@ export const QSearch = () => {
                                 qSearchTreeResult={qSearchTreeResult} executionTime={executionTime}/>
                 )
                 }
-
             </div>
         );
     }
